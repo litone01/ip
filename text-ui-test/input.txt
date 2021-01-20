@@ -4,4 +4,22 @@ deadline assignment /by monday
 list
 done 1
 list
+delete 1
+list
+todo
+blah
+deadline cannotCreate /at monday
+deadline cannotCreate /by
+deadline cannotCreate
+deadline /by monday
+deadline
+event cannotCreate /by monday
+event cannotCreate /at
+event cannotCreate
+event /at Monday
+event
+list
+done 99
+delete 99
+list
 bye
