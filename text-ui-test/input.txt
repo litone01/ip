@@ -1,0 +1,7 @@
+todo test
+event exam2 /at monday 12-2pm
+deadline assignment /by monday
+list
+done 1
+list
+bye
