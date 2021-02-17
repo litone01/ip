@@ -22,7 +22,7 @@ Example of usage:
 
 Expected outcome:
 
-![todo demo](images/todo.png)
+![todo demo](images/TodoDemo.png)
 
 ### Adding an event: `event <description> /at <date>`
 
@@ -37,7 +37,7 @@ Example of usage:
 
 Expected outcome:
 
-![event demo](images/event.png)
+![event demo](images/EventDemo.png)
 
 ### Adding a deadline: `deadline <description> /by <date>`
 
@@ -51,7 +51,7 @@ Example of usage:
 
 Expected outcome:
 
-![deadline demo](images/deadline.png)
+![deadline demo](images/DeadlineDemo.png)
 
 ### Listing all tasks added: `list`  
 
@@ -63,7 +63,7 @@ Example of usage:
 
 Expected outcome:
 
-![list demo](images/list.png)
+![list demo](images/ListDemo.png)
 
 ### Deleting a task: `delete <task index>`
 
@@ -76,7 +76,7 @@ Example of usage:
 
 Expected outcome:
 
-![delete demo](images/delete.png)
+![delete demo](images/DeleteDemo.png)
 
 ### Marking a task as done: `done <task index>`
 
@@ -89,7 +89,7 @@ Example of usage:
 
 Expected outcome:
 
-![done demo](images/done.png)
+![done demo](images/DoneDemo.png)
 
 ### Finding tasks by searching a keyword: `find <keyword>`
 
@@ -101,7 +101,7 @@ Example of usage:
 
 Expected outcome:
 
-![find demo](images/find.png)
+![find demo](images/FindDemo.png)
 
 ### Updating the date of a deadline: `update <deadline index> <new date>`
 
@@ -118,7 +118,7 @@ Example of usage:
 
 Expected outcome:
 
-![update demo](images/update.png)
+![update demo](images/UpdateDemo.png)
 
 ### Exiting Duke: `bye`
 
@@ -130,4 +130,4 @@ Example of usage:
 
 Expected outcome:
 
-![exit demo](images/bye.png)
+![exit demo](images/ExitDemo.png)
